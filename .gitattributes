@@ -1,2 +1,2 @@
 * linguist-vendored
-*.ecore linguist-vendored=false
+*.atl linguist-language=Java
